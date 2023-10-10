@@ -27,6 +27,16 @@ Hello! My name is Noé Steiner, and I am a diligent computer engineering student
 
 # 📂 Projects
 
+## [🍅 Shared Gardens *(2022)*](https://github.com/unshade/shared-garden)
+
+Open your garden to a community of like-minded individuals, embracing the generous spirit that true gardening enthusiasts embody. Additionally, take advantage of our advanced garden watering function, supercharged with Gurobi optimization (simplex algorithm, first project using linear programming), ensuring your plants are always perfectly hydrated (very important).
+
+<p align="center">
+	<a href="https://github.com/unshade/shared-garden"><img src="https://github.com/unshade/unshade/assets/72690981/69fc02cf-2627-41a7-8f40-950f033d9801" width="500"></a>
+</p>
+
+<br>
+
 ## [🏢 Elevator Simulator *(2022)*](https://github.com/unshade/ElevatorSimulation)
 
 The elevator simulation employs an "échéancier" (schedule or timeline in French) to manage the real-time events and movements, ensuring the systematic and orderly processing of people's requests to move between floors. Utilizing thorough tests and checks, the system ascertains safe and efficient transport, while constantly adjusting to varying usage patterns and potential emergency scenarios.
