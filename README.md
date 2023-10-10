@@ -34,6 +34,19 @@ Open your garden to a community of like-minded individuals, embracing the genero
 <p align="center">
 	<a href="https://github.com/unshade/shared-garden"><img src="https://github.com/unshade/unshade/assets/72690981/69fc02cf-2627-41a7-8f40-950f033d9801" width="500"></a>
 </p>
+<p align="center">
+	<a href="https://fr.legacy.reactjs.org">
+		<img src="https://img.shields.io/badge/-React.js-0077B5?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://flask.palletsprojects.com/en/3.0.x/">
+		<img src="https://img.shields.io/badge/-Flask.py-44b8c7?style=for-the-badge&logo=python&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://www.gurobi.com">
+		<img src="https://img.shields.io/badge/-Gurobi-D14836?style=for-the-badge&logo=gurobi&logoColor=white">
+	</a>
+</p>
 
 <br>
 
@@ -43,6 +56,12 @@ The elevator simulation employs an "échéancier" (schedule or timeline in Frenc
 
 <p align="center">
 	<a href="https://github.com/unshade/ElevatorSimulation"><img src="https://github.com/unshade/unshade/assets/72690981/693b3a2f-40f5-4560-a851-be1b1798b3fd" width="500"></a>
+</p>
+<p align="center">
+	<span>&nbsp;</span>
+	<a href="https://www.java.com/fr/">
+		<img src="https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=oracle&logoColor=white">
+	</a>
 </p>
 
 <br>
@@ -54,5 +73,12 @@ My first significant project involved developing a maze game from scratch in Jav
 <p align="center">
 	<a href="https://github.com/unshade/Zeldiablo"><img src="https://github.com/unshade/unshade/assets/72690981/e4820d4c-e2d3-4c78-b7d4-fed5d62d9a60" width="500"></a>
 </p>
+<p align="center">
+	<span>&nbsp;</span>
+	<a href="https://www.java.com/fr/">
+		<img src="https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=oracle&logoColor=white">
+	</a>
+</p>
+
 
 <br>
