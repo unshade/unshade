@@ -27,6 +27,16 @@ Hello! My name is Noé Steiner, and I am a diligent computer engineering student
 
 # 📂 Projects
 
+## [🏢 Elevator Simulator *(2022)*](https://github.com/unshade/ElevatorSimulation)
+
+The elevator simulation employs an "échéancier" (schedule or timeline in French) to manage the real-time events and movements, ensuring the systematic and orderly processing of people's requests to move between floors. Utilizing thorough tests and checks, the system ascertains safe and efficient transport, while constantly adjusting to varying usage patterns and potential emergency scenarios.
+
+<p align="center">
+	<a href="https://github.com/unshade/ElevatorSimulation"><img src="https://github.com/unshade/unshade/assets/72690981/693b3a2f-40f5-4560-a851-be1b1798b3fd" width="500"></a>
+</p>
+
+<br>
+
 ## [👾 Zeldiablo *(2020)*](https://github.com/unshade/Zeldiablo)
 
 My first significant project involved developing a maze game from scratch in Java, intertwining logical problem-solving with interactive user experience.
@@ -36,4 +46,3 @@ My first significant project involved developing a maze game from scratch in Jav
 </p>
 
 <br>
-
