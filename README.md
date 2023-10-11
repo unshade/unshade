@@ -134,3 +134,28 @@ My first significant project involved developing a maze game from scratch in Jav
 
 
 <br>
+
+# 📊 Some stats
+
+
+
+## 🚀 General Statistics
+
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=unshade&count_private=true&theme=holi&show_icons=true&bg_color=00000000"/>
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=unshade&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="unshade"/>
+</div>
+
+
+## 🏆 Skills & Usage Statistics
+
+<div align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unshade&layout=compact&theme=holi&show_icons=true&bg_color=00000000"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=unshade&theme=holi&show_icons=true&bg_color=00000000"/>
+</div>
+
+
+
+
+
+
