@@ -102,6 +102,22 @@ The elevator simulation employs an "échéancier" (schedule or timeline in Frenc
 
 <br>
 
+## [🦠 Game Of Life *(2022)*](https://github.com/unshade/ScalaDeLaVie)
+
+I developed a version of the renowned Game of Life, employing a purely functional programming approach with recursive functions. The simulation allows cells to evolve over time.
+
+<p align="center">
+	<a href="https://github.com/unshade/ScalaDeLaVie"><img src="https://github.com/unshade/unshade/assets/72690981/c7658e93-ef41-41ed-9f37-2cd0b7bb45c5" width="500"></a>
+</p>
+<p align="center">
+	<span>&nbsp;</span>
+	<a href="https://www.scala-lang.org">
+		<img src="https://img.shields.io/badge/-scala-db2121?style=for-the-badge&logo=scala&logoColor=white">
+	</a>
+</p>
+
+<br>
+
 ## [👾 Zeldiablo *(2020)*](https://github.com/unshade/Zeldiablo)
 
 My first significant project involved developing a maze game from scratch in Java, intertwining logical problem-solving with interactive user experience.
