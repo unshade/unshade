@@ -32,6 +32,37 @@ Unfortunately most of my projects are closed source, but you can find some of my
 
 # 📂 Projects
 
+## [🎛️ SICHUB *(2023)*](https://github.com/unshade/sichub)
+
+I developed a small application for my school, enabling my signal processing teacher to upload instructional videos. The primary objective of creating this app was to familiarize myself with Docker, Laravel, and Inertia.
+
+<p align="center">
+	<a href="https://github.com/unshade/sichub"><img src="https://github.com/unshade/unshade/assets/72690981/7d17c04d-d2da-4564-bb86-e24063cb5643" width="500"></a>
+</p>
+<p align="center">
+	<a href="https://fr.legacy.reactjs.org">
+		<img src="https://img.shields.io/badge/-React.js-0077B5?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://www.php.net">
+		<img src="https://img.shields.io/badge/-php-873ac2?style=for-the-badge&logo=php&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://laravel.com">
+		<img src="https://img.shields.io/badge/-laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://inertiajs.com">
+		<img src="https://img.shields.io/badge/-inertia-ca85ff?style=for-the-badge&logo=inertia&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://www.docker.com">
+		<img src="https://img.shields.io/badge/-docker-3d55d1?style=for-the-badge&logo=docker&logoColor=white">
+	</a>
+</p>
+
+<br>
+
 ## [🍅 Shared Gardens *(2022)*](https://github.com/unshade/shared-garden)
 
 Open your garden to a community of like-minded individuals, embracing the generous spirit that true gardening enthusiasts embody. Additionally, take advantage of our advanced garden watering function, supercharged with Gurobi optimization (simplex algorithm, first project using linear programming), ensuring your plants are always perfectly hydrated (very important).
