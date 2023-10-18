@@ -143,7 +143,6 @@ My first significant project involved developing a maze game from scratch in Jav
 
 <div align="center">
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=unshade&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="unshade"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unshade&layout=compact&theme=holi&show_icons=true&bg_color=00000000"/>
 
 </div>
 
