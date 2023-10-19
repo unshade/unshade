@@ -32,6 +32,36 @@ Unfortunately most of my projects are closed source, but you can find some of my
 
 # 📂 Projects
 
+## [♾️ FractalForge *(2023)*](https://github.com/unshade/FractalForge)
+
+⚠️ Under dev
+
+FractalForge is a cutting-edge fractal simulation platform developed to render real-time fractals with unmatched precision. Harnessing the power of C++ for its core computations, FractalForge integrates seamlessly with GLSL for graphical shading, SFML for multimedia handling, and ImGui for an intuitive user interface. Dive into the mesmerizing world of fractals and explore intricate designs at the speed of thought, all through the robust capabilities of FractalForge.
+
+<p align="center">
+	<a href="https://github.com/unshade/FractalForge"><img src="https://github.com/unshade/unshade/assets/72690981/76881009-a8b0-4996-a31e-093ae0c63071" width="500"></a>
+</p>
+<p align="center">
+	<a href="https://www.opengl.org">
+		<img src="https://img.shields.io/badge/-glsl-0077B5?style=for-the-badge&logo=opengl&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://isocpp.org">
+		<img src="https://img.shields.io/badge/-C++-424cdb?style=for-the-badge&logo=c&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://www.sfml-dev.org">
+		<img src="https://img.shields.io/badge/-sfml-42db42?style=for-the-badge&logo=sfml&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://cmake.org">
+		<img src="https://img.shields.io/badge/-cmake-873ac2?style=for-the-badge&logo=cmake&logoColor=white">
+	</a>
+
+</p>
+
+<br>
+
 ## [🎛️ SICHUB *(2023)*](https://github.com/unshade/sichub)
 
 I developed a small application for my school, enabling my signal processing teacher to upload instructional videos. The primary objective of creating this app was to familiarize myself with Docker, Laravel, and Inertia.
