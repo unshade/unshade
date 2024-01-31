@@ -1,11 +1,3 @@
-<p align="center">
-	<a href=""><img src="https://github.com/unshade/unshade/assets/72690981/07b257b7-8554-4784-84a7-0378147b1df9" width="100%"></a>
-</p>
-
-
-
-<br>
-
 # 👦 About me
 
 Hello! My name is Noé Steiner, and I am a diligent computer engineering student at  **[TELECOM Nancy](https://telecomnancy.univ-lorraine.fr)**, where I am immersing myself in the dynamic world of information technology. My interests in this field are vast and varied, stretching across numerous sectors within IT. While I find fascination in multiple areas, my leisure time is often devoted to exploring the intricacies of audio and signal processing, backend web development, and cybersecurity.
