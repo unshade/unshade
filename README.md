@@ -39,12 +39,8 @@ UPnP simple util.
 		<img src="https://img.shields.io/badge/-React.js-0077B5?style=for-the-badge&logo=react&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://www.php.net">
-		<img src="https://img.shields.io/badge/-php-873ac2?style=for-the-badge&logo=php&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="https://laravel.com">
-		<img src="https://img.shields.io/badge/-laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white">
+	<a href="">
+		<img src="https://img.shields.io/badge/-go-0077B5?style=for-the-badge&logo=go&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
 	<a href="https://www.docker.com">
