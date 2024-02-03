@@ -24,7 +24,7 @@ Unfortunately most of my projects are closed source, but you can find some of my
 
 # 📂 Projects
 
-## [♾🛜 UPnPFlow *(2024)*](https://github.com/unshade/UPnPFlow)
+## [🛜 UPnPFlow *(2024)*](https://github.com/unshade/UPnPFlow)
 
 
 ⚠️ Under dev
