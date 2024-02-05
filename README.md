@@ -24,21 +24,17 @@ Unfortunately most of my projects are closed source, but you can find some of my
 
 # 📂 Projects
 
-## [🛜 UPnPFlow *(2024)*](https://github.com/unshade/UPnPFlow)
+## [🛜 networKing *(2024)*](https://github.com/unshade/networKing)
 
 
 ⚠️ Under dev
 
-UPnP simple util.
+My own everything network box. Idk where is this project going
 
 <p align="center">
-	<a href="https://github.com/unshade/UPnPFlow"><img src="https://github.com/unshade/unshade/assets/72690981/546013fd-2d1a-493b-8855-874d763bb818" width="500"></a>
+	<a href="https://github.com/unshade/UPnPFlow"><img src="https://github.com/unshade/unshade/assets/72690981/bbe8f9a3-3c07-49b3-95d2-571d2df6713c" width="500"></a>
 </p>
 <p align="center">
-	<a href="https://fr.legacy.reactjs.org">
-		<img src="https://img.shields.io/badge/-React.js-0077B5?style=for-the-badge&logo=react&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
 	<a href="">
 		<img src="https://img.shields.io/badge/-go-0077B5?style=for-the-badge&logo=go&logoColor=white">
 	</a>
