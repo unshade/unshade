@@ -29,7 +29,7 @@ Unfortunately most of my projects are closed source, but you can find some of my
 
 ⚠️ Under dev
 
-My own everything network box. Idk where is this project going
+Unified everything networking HTTP REST API
 
 <p align="center">
 	<a href="https://github.com/unshade/UPnPFlow"><img src="https://github.com/unshade/unshade/assets/72690981/bbe8f9a3-3c07-49b3-95d2-571d2df6713c" width="500"></a>
