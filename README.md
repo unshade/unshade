@@ -2,7 +2,7 @@
 
 Hello! My name is Noé Steiner, and I am a diligent computer engineering student at  **[TELECOM Nancy](https://telecomnancy.univ-lorraine.fr)**, where I am immersing myself in the dynamic world of information technology. My interests in this field are vast and varied, stretching across numerous sectors within IT. While I find fascination in multiple areas, my leisure time is often devoted to exploring the intricacies of audio and signal processing, backend web development, and cybersecurity.
 
-Unfortunately most of my projects are closed source, but you can find some of my favorite open source projects below !
+Unfortunately most of my projects are closed source (for the moment, in the long term I am opening up my projects. I like to be an open source guy), but you can find some of my favorite projects below ! (PS : Most pro projects are not displayed)
 
 
 <br>
@@ -24,23 +24,49 @@ Unfortunately most of my projects are closed source, but you can find some of my
 
 # 📂 Projects
 
-## [🛜 networKing *(2024)*](https://github.com/unshade/networKing)
-
-
+## 🤖 PIDR *(2024)*
 ⚠️ Under dev
+<br>
+❌ Closed Source
 
-Unified everything networking HTTP REST API. I know this project has a terrible name, but I was eating burger king when I created it sooooo.... 
+Research project associated with the tech-lab of the Grandes Mines engineering school in Nancy. We are working on a robotics topic on 2 Boston Dynamics robots
 
 <p align="center">
-	<a href="https://github.com/unshade/UPnPFlow"><img src="https://github.com/unshade/unshade/assets/72690981/bbe8f9a3-3c07-49b3-95d2-571d2df6713c" width="500"></a>
+	<a href=""><img src="https://github.com/unshade/unshade/assets/72690981/9c5b1d1e-c551-4a47-8552-5aba40c608c7" width="500"></a>
 </p>
 <p align="center">
 	<a href="">
-		<img src="https://img.shields.io/badge/-go-0077B5?style=for-the-badge&logo=go&logoColor=white">
+		<img src="https://img.shields.io/badge/-ros-0077B5?style=for-the-badge&logo=ros&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://www.docker.com">
-		<img src="https://img.shields.io/badge/-docker-3d55d1?style=for-the-badge&logo=docker&logoColor=white">
+	<a href="https://isocpp.org">
+		<img src="https://img.shields.io/badge/-py-424cdb?style=for-the-badge&logo=python&logoColor=white">
+	</a>
+</p>
+
+<br>
+
+## 💻 CANADA *(2024)*
+⚠️ Under dev
+<br>
+❌ Closed Source
+
+ADA compiler. ADA -> ASM ARM32 . No library used (No Antlr etc... coded from scratch)
+
+<p align="center">
+	<a href=""><img src="https://github.com/unshade/unshade/assets/72690981/9c5a96c3-0a89-4713-87c2-127de8abd1dd" width="500"></a>
+</p>
+<p align="center">
+	<a href="">
+		<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="-">
+		<img src="https://img.shields.io/badge/-ASM32-424cdb?style=for-the-badge&logo=asm&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="">
+		<img src="https://img.shields.io/badge/-ADA-424cdb?style=for-the-badge&logo=ada&logoColor=white">
 	</a>
 </p>
 
@@ -49,6 +75,8 @@ Unified everything networking HTTP REST API. I know this project has a terrible 
 ## [♾️ FractalForge *(2023)*](https://github.com/unshade/FractalForge)
 
 ⚠️ Under dev
+<br>
+✅ Open Source
 
 FractalForge is a cutting-edge fractal simulation platform developed to render real-time fractals with unmatched precision. Harnessing the power of C++ for its core computations, FractalForge integrates seamlessly with GLSL for graphical shading, SFML for multimedia handling, and ImGui for an intuitive user interface. Dive into the mesmerizing world of fractals and explore intricate designs at the speed of thought, all through the robust capabilities of FractalForge.
 
@@ -77,6 +105,8 @@ FractalForge is a cutting-edge fractal simulation platform developed to render r
 <br>
 
 ## [🎛️ SICHUB *(2023)*](https://github.com/unshade/sichub)
+
+✅ Open Source
 
 I developed a small application for my school, enabling my signal processing teacher to upload instructional videos. The primary objective of creating this app was to familiarize myself with Docker, Laravel, and Inertia.
 
@@ -109,6 +139,8 @@ I developed a small application for my school, enabling my signal processing tea
 
 ## [🍅 Shared Gardens *(2022)*](https://github.com/unshade/shared-garden)
 
+✅ Open Source
+
 Open your garden to a community of like-minded individuals, embracing the generous spirit that true gardening enthusiasts embody. Additionally, take advantage of our advanced garden watering function, supercharged with Gurobi optimization (simplex algorithm, first project using linear programming), ensuring your plants are always perfectly hydrated (very important).
 
 <p align="center">
@@ -130,7 +162,65 @@ Open your garden to a community of like-minded individuals, embracing the genero
 
 <br>
 
+## [⚙️ HubSpot Onboarder *(2022)*]()
+
+❌ Closed Source
+
+Full-featured HubSpot onboarder, allowing multiple hubspot accounts to be managed between them. Professional project
+
+<p align="center">
+	<a href=""><img src="https://github.com/unshade/unshade/assets/72690981/0f0a8354-7113-4189-8ddb-3520a820850e" width="500"></a>
+</p>
+<p align="center">
+	<span>&nbsp;</span>
+	<a href="">
+		<img src="https://img.shields.io/badge/-Node.js-D14836?style=for-the-badge&logo=node.js&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="">
+		<img src="https://img.shields.io/badge/-Next.js-D14836?style=for-the-badge&logo=next.js&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="">
+		<img src="https://img.shields.io/badge/-React.js-D14836?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="">
+		<img src="https://img.shields.io/badge/-HubSpot-D14836?style=for-the-badge&logo=hubspot&logoColor=white">
+	</a>
+</p>
+
+<br>
+
+## [🥐 Charlemi'app *(2022)*]()
+
+✅ Open Source
+
+Small mobile application with backoffice for click and collect ordering at my school's cafeteria.
+
+<p align="center">
+	<a href=""><img src="https://github.com/unshade/unshade/assets/72690981/a73018cd-6075-4f0b-9bb7-d1df1d221ad8" width="500"></a>
+</p>
+<p align="center">
+	<span>&nbsp;</span>
+	<a href="">
+		<img src="https://img.shields.io/badge/-Flutter-D14836?style=for-the-badge&logo=flutter&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="">
+		<img src="https://img.shields.io/badge/-Dart-D14836?style=for-the-badge&logo=dart&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="">
+		<img src="https://img.shields.io/badge/-Node.Js-D14836?style=for-the-badge&logo=node.js&logoColor=white">
+	</a>
+</p>
+
+<br>
+
 ## [🏢 Elevator Simulator *(2022)*](https://github.com/unshade/ElevatorSimulation)
+
+✅ Open Source
 
 The elevator simulation employs an "échéancier" (schedule or timeline in French) to manage the real-time events and movements, ensuring the systematic and orderly processing of people's requests to move between floors. Utilizing thorough tests and checks, the system ascertains safe and efficient transport, while constantly adjusting to varying usage patterns and potential emergency scenarios.
 
@@ -148,6 +238,8 @@ The elevator simulation employs an "échéancier" (schedule or timeline in Frenc
 
 ## [🦠 Game Of Life *(2022)*](https://github.com/unshade/ScalaDeLaVie)
 
+✅ Open Source
+
 I developed a version of the renowned Game of Life, employing a purely functional programming approach with recursive functions. The simulation allows cells to evolve over time.
 
 <p align="center">
@@ -163,6 +255,8 @@ I developed a version of the renowned Game of Life, employing a purely functiona
 <br>
 
 ## [👾 Zeldiablo *(2020)*](https://github.com/unshade/Zeldiablo)
+
+✅ Open Source
 
 My first significant project involved developing a maze game from scratch in Java, intertwining logical problem-solving with interactive user experience.
 
