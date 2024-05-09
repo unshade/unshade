@@ -108,7 +108,7 @@ FractalForge is a cutting-edge fractal simulation platform developed to render r
 
 ✅ Open Source
 
-I developed a small application for my school, enabling my signal processing teacher to upload instructional videos. The primary objective of creating this app was to familiarize myself with Docker, Laravel, and Inertia.
+YouTube for signal processing lovers
 
 <p align="center">
 	<a href="https://github.com/unshade/sichub"><img src="https://github.com/unshade/unshade/assets/72690981/7d17c04d-d2da-4564-bb86-e24063cb5643" width="500"></a>
