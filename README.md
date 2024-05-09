@@ -2,7 +2,7 @@
 
 Hello! My name is Noé Steiner, and I am a diligent computer engineering student at  **[TELECOM Nancy](https://telecomnancy.univ-lorraine.fr)**, where I am immersing myself in the dynamic world of information technology. My interests in this field are vast and varied, stretching across numerous sectors within IT.
 
-Unfortunately most of my projects are closed source (for the moment, in the long term I am opening up my projects. I like to be an open source guy), but you can find some of my favorite projects below ! (PS : Most pro projects are not displayed)
+Unfortunately most of my projects are closed source and not displayed here (for the moment, in the long term I am opening up my projects. I like to be an open source guy), but you can find some of my favorite projects below ! (PS : Most pro projects are not displayed)
 
 
 <br>
