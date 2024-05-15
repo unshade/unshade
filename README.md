@@ -46,10 +46,8 @@ Research project associated with the tech-lab of the Grandes Mines engineering s
 
 <br>
 
-## 💻 CANADA *(2024)*
-⚠️ Under dev
-<br>
-❌ Closed Source
+## [💻 CANADA *(2024)*](https://github.com/unshade/canada)
+✅ Open Source
 
 ADA compiler. ADA -> ASM ARM32 . No library used (No Antlr etc... coded from scratch)
 
