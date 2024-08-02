@@ -1,12 +1,3 @@
-# 👦 About me
-
-Hello! I am a diligent computer engineering student. My interests in this field are vast and varied, stretching across numerous sectors within IT.
-
-Unfortunately most of my projects are closed source and not displayed here (for the moment, in the long term I am opening up my projects. I like to be an open source guy), but you can find some of my favorite projects below ! (PS : Most pro projects are not displayed)
-
-
-<br>
-
 # 📭 Contact
 
 <p align="center">
@@ -22,7 +13,7 @@ Unfortunately most of my projects are closed source and not displayed here (for 
 
 <br>
 
-# 📂 Projects
+# 📂 Some Projects
 
 ## 🤖 PIDR *(2024)*
 ⚠️ Under dev
