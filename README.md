@@ -32,7 +32,7 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=unshade&theme=holi&show_icons=true&bg_color=00000000"/>
 </div>
 <div align="center">
-<p>Registered on October 10th 2023</p>
+<p>Registered on October 10th 2023, does not count professionnal projects</p>
 </div>
 
 
